@@ -3,5 +3,5 @@
 [Design sem nome.gif]
 
 
-![alt text](root/Design sem nome.gif)
+![Optional Text](../master/myFolder/Design sem nome.gif)
 
