@@ -180,10 +180,26 @@ Em **Interessados** inserir:
 Clicar em Salvar
 
 ### Termo de Abertura de Processo Eletrônico
--  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) Incluir Documento
+-  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) para criar documento.
 -  Localizar e clicar em **Termo de Abertura de Processo Eletrônico**
 -  Clicar em **Confirmar Dados**
+-  Fechar a janela do Editor de Documentos(caso necessário)
+-  Clicar em ![aiaiai](../img/sei_assinar.gif), preencher com os suas informações e clicar em **Assinar**.
+-  Fim
 
+### Portaria
+-  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) para criar documento.
+-  Localizar e clicar em **Portaria**
+-  Em **Texto Inicial** selecionar **Texto Padrão** e escolher o modelo que se adapta melhor a sua realidade:
+	- Férias - Atos de Pessoal
+	- Férias Fracionadas - Atos de Pessoal
+- Número: **INSERIR PADRAO**
+- Descrição: **INSERIR PADRAO**
+-  Clicar em **Confirmar Dados**
+-  Preencher os campos necessários da portaria e clicar em **Salvar**
+-  Verificar a estética clicando em ![aiaiai](../img/sei_imprimir_web.gif) (não precisa imprimir, é apenas pra visualizar como ficará na publicação)
+-  Se necessário editar o documento novamente, clique em ![aiaiai](../img/sei_imprimir_web.gif)
+-  Fim
 
 
 ### 8 - Assinatura Digital no Senior
