@@ -28,9 +28,12 @@ funcionário.
 
 # Método
 
-## Solicitação 
+## Solicitação
+
 **Servidor** acessa o **Portal do Servidor** e na seção **Abertura de Protocolo** clica sobre o botão **Férias** e conclui a solicitação por lá. A solicitação é enviada para a aprovação da **Chefia Imediata** do **servidor**.
-### Aprovação
+
+## Aprovação
+
 **Chefia Imediata** acessa o **Portal do Servidor** e na seção **Chefias e Reponsáveis** clica sobre **Aprovar Protocolos** e defere(ou não) a solicitação.
 
 ## RH - SENIOR
@@ -38,17 +41,22 @@ funcionário.
 Esta é a parte em que entramos em ação. As partes relacionadas ao Senior são referentes ao **Módulo Administração de Pessoal.**
 
 ### 1 - Inserir Ato no Senior
+
 Consiste em duas etapas:
 
 - Reservar Ato
 - Inserir Ato
 
 ### Reservar Ato
+
 **Prestação de Contas** → **Atos de Pessoal** → **Reserva de Ato** 
+
 _Na nova janela:_ ***Gerar Novo Ato*** ⇨ ***Inserir***
+
 Com isso será reservado um número na seguinte estrutura:  **Num/Ano**
 
 ### Inserir Ato
+
 **Prestação de Contas** → **Atos de Pessoal** → **Ato Movimentação de Pessoal** 
 
 **Campo**: Preenchimento 
@@ -151,7 +159,31 @@ Em **Salvar Como:** Selecione a extensão “**Arquivo PDF/A.(*.pdf)**” e cliq
 
 ### 4 - Criar evento no Google Agenda com o período de gozo de férias.
 
-### 5 - Marcar na planilha de Férias.
+### 5 - Marcar na Google Planilhas de Férias.
+
+## SEI!
+
+Preencher os campos que forem destacados aqui, os demais serão deixados em branco.
+
+### Iniciar Processo
+
+Clicar em **Iniciar Processo** na barra lateral esquerda(ou menu suspenso, se assim for configurado).
+
+Localizar e clicar no Tipo de Processo **Norma Jurídica: Portaria Municipal**
+
+Em **Especificação** seguir o padrão:
+# COLOCAR O PADRÃO AQUI
+Em **Interessados** inserir:
+- IPPLAM
+- Pessoa a quem a portaria se refere.
+
+Clicar em Salvar
+
+### Termo de Abertura de Processo Eletrônico
+-  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) Incluir Documento
+-  Localizar e clicar em **Termo de Abertura de Processo Eletrônico**
+-  Clicar em **Confirmar Dados**
+
 
 
 ### 8 - Assinatura Digital no Senior
