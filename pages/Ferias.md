@@ -198,7 +198,7 @@ Clicar em Salvar
 -  Clicar em **Confirmar Dados**
 -  Preencher os campos necessários da portaria e clicar em **Salvar**
 -  Verificar a estética clicando em ![aiaiai](../img/sei_imprimir_web.gif) (não precisa imprimir, é apenas pra visualizar como ficará na publicação)
--  Se necessário editar o documento novamente, clique em ![aiaiai](../img/sei_imprimir_web.gif)
+-  Se necessário editar o documento novamente, clique em ![aiaiai](../img/sei_editar_conteudo.gif)
 -  Fim
 
 
