@@ -167,17 +167,15 @@ Preencher os campos que forem destacados aqui, os demais serão deixados em bran
 
 ### Iniciar Processo
 
-Clicar em **Iniciar Processo** na barra lateral esquerda(ou menu suspenso, se assim for configurado).
-
-Localizar e clicar no Tipo de Processo **Norma Jurídica: Portaria Municipal**
-
-Em **Especificação** seguir o padrão:
-# COLOCAR O PADRÃO AQUI
-Em **Interessados** inserir:
-- IPPLAM
-- Pessoa a quem a portaria se refere.
-
-Clicar em Salvar
+- Clicar em **Iniciar Processo** na barra lateral esquerda(ou menu suspenso, se assim for configurado).
+- Localizar e clicar no **Tipo de Processo**:
+	- **Norma Jurídica: Portaria Municipal**
+- **Especificação** (seguir o padrão): 
+	- Portaria Nº xx/202x - GA/IPPLAM - assunto com iniciais minúsculas
+- Em **Interessados** inserir:
+	- IPPLAM
+	- Pessoa a quem a portaria se refere.
+- Clicar em **Salvar**.
 
 ### Termo de Abertura de Processo Eletrônico
 -  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) para criar documento.
