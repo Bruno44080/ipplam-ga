@@ -47,7 +47,7 @@ Consiste em duas etapas:
 - Reservar Ato
 - Inserir Ato
 
-#### Reservar Ato
+##### Reservar Ato
 
 **Prestação de Contas** → **Atos de Pessoal** → **Reserva de Ato** 
 
@@ -55,7 +55,7 @@ _Na nova janela:_ ***Gerar Novo Ato*** ⇨ ***Inserir***
 
 Com isso será reservado um número na seguinte estrutura:  **Num/Ano**
 
-#### Inserir Ato
+##### Inserir Ato
 
 **Prestação de Contas** → **Atos de Pessoal** → **Ato Movimentação de Pessoal** 
 
