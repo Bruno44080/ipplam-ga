@@ -187,6 +187,12 @@ Clicar em Salvar
 -  Clicar em ![aiaiai](../img/sei_assinar.gif), preencher com os suas informações e clicar em **Assinar**.
 -  Fim
 
+### Inserir o PDF da Portaria no SEI
+- Posicionar o ponteiro do mouse sobre o número do processo na barra lateral esquerda e clicar em **Enviar Documento Externo** no menu suspenso que aparecer.
+- Arrastar o arquivo no local indicado, ou clicar na mensagem e selecionar o arquivo desejado.
+- Fim
+
+
 ### Portaria
 -  Clicar em ![algumacoisa](../img/sei_incluir_documento.gif) para criar documento.
 -  Localizar e clicar em **Portaria**
