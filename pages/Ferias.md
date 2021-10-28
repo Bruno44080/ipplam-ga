@@ -59,101 +59,57 @@ Com isso será reservado um número na seguinte estrutura:  **Num/Ano**
 
 **Prestação de Contas** → **Atos de Pessoal** → **Ato Movimentação de Pessoal** 
 
-**Campo**: Preenchimento 
-
-Montar Ato Num/Ano - Secr.: 
-
-**Primeiro Campo**: Num
-
-**Segundo Campo**: Ano
-
-**SEADM**: Desmarcado 
-
-Copie o texto do campo Ato Sim-AP e guarde-o que irá precisar em breve.
-
-**Departamento**: GA/IPPLAM
-
-**Secretária**: 
-
-**Número do Ato**:  Num
-
-**Ano**: Ano
-
-**Data do Ato**: Data atual
-
-**Data da Publicação**:
-
-**Veículo Publicação**: 1
-
-**Nº AtoTeca TCE**:
-
-**Caminho Arquivo do Ato**:
-
-**Empresa Prefeito**: 
-
-**Cadastro Prefeito**:
-
-**Empresa Chefe Gabinete**: 
-
-**Cadastro Chefe Gabinete**: 
-
-**Empresa Secretário RH**:
-
-**Cadastro Secretário RH**: 
-
-**Empresa Secretario**: 7
-
-**Cadastro Secretário**: 74332
-
-**Empresa Diretor**: 
-
-**Cadastro Diretor**: 
-
-**Texto Adicional**: e tendo em vista o protocolo xxx/202x.
-
-**Tipo do Protocolo**:
-
-**Data Tipo**: 
-
-**Protocolo**: Clicar em cada campo e selecionar o referido protocolo para o devido preenchimento.
-
-**Competência de Envio**: 
-
-***Clicar em Inserir***
+- **Campo**: Preenchimento 
+- Montar Ato Num/Ano - Secr.: 
+	- **Primeiro Campo**: Num
+	- **Segundo Campo**: Ano
+- **SEADM**: Desmarcado  _(Copie o texto do campo Ato Sim-AP e guarde-o que irá precisar em breve.)_
+- **Departamento**: GA/IPPLAM
+- **Secretária**: 
+- **Número do Ato**:  Num
+- **Ano**: Ano
+- **Data do Ato**: Data atual
+- **Data da Publicação**:
+- **Veículo Publicação**: 1
+- **Nº AtoTeca TCE**:
+- **Caminho Arquivo do Ato**:
+- **Empresa Prefeito**: 
+- **Cadastro Prefeito**:
+- **Empresa Chefe Gabinete**: 
+- **Cadastro Chefe Gabinete**: 
+- **Empresa Secretário RH**:
+- **Cadastro Secretário RH**: 
+- **Empresa Secretario**: 7
+- **Cadastro Secretário**: 74332
+- **Empresa Diretor**: 
+- **Cadastro Diretor**: 
+- **Texto Adicional**: e tendo em vista o protocolo xxx/202x.
+- **Tipo do Protocolo**:
+- **Data Tipo**: 
+- **Protocolo**: Clicar em cada campo e selecionar o referido protocolo para o devido preenchimento.
+- **Competência de Envio**: 
+- ***Clicar em Inserir***
 
 ## 2 -  Listar Ato e salvar cópia PDF/A na pasta compartilhada.
 
 **Prestação de Contas** → **Atos de Pessoal** → **Listar Ato**
 
-**Data Inicial**: Qualquer data anterior ao ATO em questão
-
-**Data Final**: Qualquer data posterior ao ATO em questão
-
-**Empresa**: 7
-
-**Ato**: Colar o texto que estava no campo Ato Sim-AP do procedimento anterior.
-
-**Tipo do Ato**: em branco
-
-**Tipo Protocolo**: em branco
-
-**Nomeação**: N
-
-**Licenca Tratamento de Saúde?**: N
-
-**Clicar em Ok**
-
-Clicar em **Salvar Relatório** (Ícone do Disquete)
-
-**Localizar a pasta de destino**;
-
-\\\mercurio2\IPPLAM\Gerência Administrativa Gestão 2021\RH - Recursos Humanos\Servidores\PORTARIA
-
-Nomear o arquivo conforme o padrão: 
-PORTARIA N.***NNN.AAAA*** - GA IPPLAM - ***NOME TIPO***
-Exemplo: PORTARIA N. ***039.2021*** - GA IPPLAM - ***Bruno Férias Fracionadas*** 
-
-Em **Salvar Como:** Selecione a extensão “**Arquivo PDF/A.(*.pdf)**” e clique em **Salvar**.
+- **Data Inicial**: Qualquer data anterior ao ATO em questão
+- **Data Final**: Qualquer data posterior ao ATO em questão
+- **Empresa**: 7
+- **Ato**: Colar o texto que estava no campo Ato Sim-AP do procedimento anterior.
+- **Tipo do Ato**: em branco
+- **Tipo Protocolo**: em branco
+- **Nomeação**: N
+- **Licenca Tratamento de Saúde?**: N
+- **Clicar em Ok**
+- Clicar em **Salvar Relatório** (Ícone do Disquete)
+- **Localizar a pasta de destino**;
+	- \\\mercurio2\IPPLAM\Gerência Administrativa Gestão 2021\RH - Recursos Humanos\Servidores\PORTARIA
+- Nomear o arquivo conforme o padrão: 
+	- PORTARIA N.***NNN.AAAA*** - GA IPPLAM - ***NOME TIPO***
+	- Exemplo: PORTARIA N. ***039.2021*** - GA IPPLAM - ***Bruno Férias Fracionadas*** 
+- Em **Salvar Como:** Selecione a extensão “**Arquivo PDF/A.(*.pdf)**” e clique em **Salvar**.
 
 ## RH - Google Drive
 
