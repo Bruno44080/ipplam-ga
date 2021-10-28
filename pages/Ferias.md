@@ -161,6 +161,21 @@ Preencher os campos que forem destacados aqui, os demais serão deixados em bran
 -  Se necessário editar o documento novamente, clique em ![aiaiai](../img/sei_editar_conteudo.gif)
 -  Fim
 
+### Inserir Processo em Bloco Interno
++ Clicar sobre o número do processo na Árvore do Processo localizada na lateral esquerda da página.
++ Clicar em ![aiaiai](../img/sei_incluir_em_bloco.gif)
++ Localize o Bloco Interno:
+	+  Nº 398
+	+ Descrição: RH - Atos de Pessoal - Portarias/Decretos
++ Na ultima coluna da linha do respectivo bloco, clique em ![aiaiai](../img/transportar.gif) 
++ Comunique a chefia responsável (Raquel) que tem processo para ser conferido.
++  Fim
++  
+### Inserir Portaria em Bloco de Assinatura
+
+### Disponibilizar Bloco de Assinatura
+
+### 
 
 ### 8 - Assinatura Digital no Senior
 
