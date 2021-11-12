@@ -81,8 +81,8 @@ Com isso será reservado um número na seguinte estrutura:  **Num/Ano**
 - **Cadastro Secretário RH**: 
 - **Empresa Secretario**: 7
 - **Cadastro Secretário**: 74332
-- **Empresa Diretor**: 
-- **Cadastro Diretor**: 
+- **Empresa Diretor**: 7
+- **Cadastro Diretor**: 15681
 - **Texto Adicional**: e tendo em vista o protocolo xxx/202x.
 - **Tipo do Protocolo**:
 - **Data Tipo**: 
@@ -153,8 +153,8 @@ Preencher os campos que forem destacados aqui, os demais serão deixados em bran
 -  Em **Texto Inicial** selecionar **Texto Padrão** e escolher o modelo que se adapta melhor a sua realidade:
 	- Férias - Atos de Pessoal
 	- Férias Fracionadas - Atos de Pessoal
-- Número: **INSERIR PADRAO**
-- Descrição: **INSERIR PADRAO**
+- Número: apenas o número da portaria sem o ano
+- Descrição: a descrição usada inicialmente
 -  Clicar em **Confirmar Dados**
 -  Preencher os campos necessários da portaria e clicar em **Salvar**
 -  Verificar a estética clicando em ![aiaiai](../img/sei_imprimir_web.gif) (não precisa imprimir, é apenas pra visualizar como ficará na publicação)
